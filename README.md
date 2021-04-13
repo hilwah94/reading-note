@@ -6,8 +6,8 @@ _**An repo to organize  reading assignment**_
 
 |     CLass      |           Read              |
 |----------------|-----------------------------|
-|    Class01     |  [Class-01.md](Class-01)    |
-|    Class02     |  [Class-02.md](Class-02)    |          
+|    Class01     |  [Class-01.md](Class-01.md)    |
+|    Class02     |  [Class-02.md](Class-02.md)    |          
 |    Class03     |  [Class-03.md](Class-03)    | 
 |    Class04     |  [Class-04.md](Class-04)    |          
 |    Class05     |  [Class-05.md](Class-05)    |        
