@@ -4,7 +4,7 @@
 
 # Read-05
 
-**_ _**
+**_Images, Color, Text_**
 
 
 
